@@ -1,0 +1,99 @@
+.header {
+  width:100%;
+  height: 20px;
+  background-color: #30110D;
+  margin-top: 0;
+  padding: 15px;
+  z-index: 1;
+}
+
+.navigation{
+  text-align: left;
+}
+
+.navigation a{
+  margin: 30px;
+  padding: 0px;
+  color: white;
+  text-decoration: none;
+  font-family: georama;
+  text-transform: uppercase;
+  border-bottom: 1px solid transparent;
+  transition: border-bottom 0.5s;
+}
+
+.navigation a:hover{
+  border-bottom: 1px solid white;
+}
+
+body {
+  margin: 0;
+  font-family: roboto;
+  text-align: center;
+  background-color: #FAF1CC;
+  min-height: 800px;
+}
+
+#about_me{
+  width: 40%;
+  display: inline-block;
+  padding: 0 50px;
+  margin-top: 20px;
+  border-right: 1px solid #30110D;
+}
+
+#contact_info{
+  width: 45%;
+  display: inline-block;
+  padding: 0 10px 50px;
+}
+
+.about_me_header h1{
+  color: #722620;
+  text-transform: uppercase;
+  font-family: noto sans jp;
+}
+
+.contact_info_header h1{
+  color: #722620;
+  text-transform: uppercase;
+  font-family: noto sans jp;
+}
+
+#contact_info a{
+  margin: 0 10px;
+}
+
+.image{
+  position: relative;
+  top: 50px;
+  padding-bottom: 50px;
+}
+
+#portfolio h1{
+  color: #722620;
+  text-transform: uppercase;
+  font-family: noto sans jp;
+  padding-bottom: 30px;
+}
+
+#resume h1{
+  color: #722620;
+  text-transform: uppercase;
+  font-family: noto sans jp;
+}
+
+footer{
+  position: relative;
+  top: 30px;
+  padding: 30px;
+  background-color: #EBE3C0;
+  font-family: noto sans jp;
+  clear: both;
+}
+
+.name{
+  color: #722620;
+  text-transform: uppercase;
+  font-family: noto sans jp;
+}
