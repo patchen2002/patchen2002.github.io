@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f3dbe42.css",
-    "main.js": "/static/js/main.5ff4ea4a.js",
+    "main.css": "/static/css/main.550f84b3.css",
+    "main.js": "/static/js/main.1f1da640.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/headshot_circle.png": "/static/media/headshot_circle.90e270a18866b45b18b0.png",
     "static/media/risk_logo.png": "/static/media/risk_logo.8274be878043723e4628.png",
     "static/media/bigredtalks_logo.png": "/static/media/bigredtalks_logo.c16bb529e0b4e39783a0.png",
+    "static/media/resume_png.png": "/static/media/resume_png.670ff3fab15eab67915d.png",
     "static/media/synonymfinder_logo.png": "/static/media/synonymfinder_logo.aa3ce7f81c1baa9b927c.png",
     "static/media/myjournal_logo.png": "/static/media/myjournal_logo.92b2acee3c56dd8529dd.png",
     "static/media/linkedin_png.png": "/static/media/linkedin_png.9119696a928d35518017.png",
     "static/media/stabler_logo.png": "/static/media/stabler_logo.c5b2db6a5bd2f5cb1877.png",
     "static/media/email_png.png": "/static/media/email_png.35762fdc203cc35c8a3e.png",
     "index.html": "/index.html",
-    "main.1f3dbe42.css.map": "/static/css/main.1f3dbe42.css.map",
-    "main.5ff4ea4a.js.map": "/static/js/main.5ff4ea4a.js.map",
+    "main.550f84b3.css.map": "/static/css/main.550f84b3.css.map",
+    "main.1f1da640.js.map": "/static/js/main.1f1da640.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f3dbe42.css",
-    "static/js/main.5ff4ea4a.js"
+    "static/css/main.550f84b3.css",
+    "static/js/main.1f1da640.js"
   ]
 }
