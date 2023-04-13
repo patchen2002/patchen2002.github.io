@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.3171c7b4.css",
-    "main.js": "/static/js/main.f0006a4b.js",
+    "main.css": "/static/css/main.1f3dbe42.css",
+    "main.js": "/static/js/main.5ff4ea4a.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/headshot_circle.png": "/static/media/headshot_circle.90e270a18866b45b18b0.png",
     "static/media/risk_logo.png": "/static/media/risk_logo.8274be878043723e4628.png",
@@ -12,12 +12,12 @@
     "static/media/stabler_logo.png": "/static/media/stabler_logo.c5b2db6a5bd2f5cb1877.png",
     "static/media/email_png.png": "/static/media/email_png.35762fdc203cc35c8a3e.png",
     "index.html": "/index.html",
-    "main.3171c7b4.css.map": "/static/css/main.3171c7b4.css.map",
-    "main.f0006a4b.js.map": "/static/js/main.f0006a4b.js.map",
+    "main.1f3dbe42.css.map": "/static/css/main.1f3dbe42.css.map",
+    "main.5ff4ea4a.js.map": "/static/js/main.5ff4ea4a.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3171c7b4.css",
-    "static/js/main.f0006a4b.js"
+    "static/css/main.1f3dbe42.css",
+    "static/js/main.5ff4ea4a.js"
   ]
 }
