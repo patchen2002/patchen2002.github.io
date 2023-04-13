@@ -33,11 +33,11 @@ function App() {
             src={EmailLogo}
             alt="Email Logo"
             ></img></a>
-            <a href="/assets/patrick_resume.pdf" target="_blank" rel="noreferrer"><img
+            {/* <a href="assets/patrick_resume.pdf" target="_blank"><img
             className="transition ease-in-out duration-700 opacity-40 xs:h-16 xs:w-16 xs:m-8 fade-in-image hover:opacity-100 h-12 w-12 mx-4 my-6" 
             src={ResumeLogo}
             alt="Resume Logo"
-            ></img></a>
+            ></img></a> */}
           </div>
         </div>
       </div>
