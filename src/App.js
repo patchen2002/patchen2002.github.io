@@ -81,23 +81,6 @@ function App() {
             <div>
               <div className="flex items-center justify-center h-full mx-auto sm:my-0 xs:my-4 my-8">
                 <div>
-                  <a href="https://github.com/patchen2002/tetris_ai" target="_blank" rel="noreferrer"><img
-                  className="transition ease-in-out duration-500 xs:h-44 xs:w-44 m-6 hover:opacity-60 w-28 h-28" 
-                  src={SynonymFinderLogo}
-                  alt="Tetris Logo"
-                  ></img></a>
-                </div>
-                <div className="xs:w-1/2 mx-6 w-3/4">
-                    <p className="text-3xl font-bold text-charc">Tetris AI</p>
-                    <p className="text-charc">May 2023</p>
-                    <p className="text-charc">This Tetris AI is trained to clear as many lines as possible. At each step, 
-                    there is a function best_moves that determines what the best move is given a gamestate. We used a genetic algorithm to find out 
-                    which parameters would let this bot clear the most number of lines. Current high score is 1856 lines.
-                    </p>
-                </div>
-              </div>
-              <div className="flex items-center justify-center h-full mx-auto sm:my-0 xs:my-4 my-8">
-                <div>
                   <a href="https://github.com/erichuang27/stabler_coin" target="_blank" rel="noreferrer"><img
                   className="transition ease-in-out duration-500 xs:h-44 xs:w-44 m-6 hover:opacity-60 w-28 h-28" 
                   src={StablerLogo}
