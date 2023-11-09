@@ -12,7 +12,7 @@ import SynonymFinderLogo from "./assets/synonymfinder_logo.png"
 function App() {
   return (
     <div>
-      <div className="flex justify-center text-center items-center h-screen bg-plat">
+      <div className="flex justify-center text-center items-center h-screen bg-plat ">
         <div>
           <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">CS @ Cornell University</p>
           <p className="sm:text-9xl font-bold text-coffee p-8 pb-4 fade-in xs:text-7xl text-6xl">PATRICK CHEN</p>
@@ -34,11 +34,6 @@ function App() {
             src={EmailLogo}
             alt="Email Logo"
             ></img></a>
-            {/* <a href="assets/patrick_resume.pdf" target="_blank"><img
-            className="transition ease-in-out duration-700 opacity-40 xs:h-16 xs:w-16 xs:m-8 fade-in-image hover:opacity-100 h-12 w-12 mx-4 my-6" 
-            src={ResumeLogo}
-            alt="Resume Logo"
-            ></img></a> */}
           </div>
         </div>
       </div>
