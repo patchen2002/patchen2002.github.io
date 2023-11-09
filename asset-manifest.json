@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.550f84b3.css",
-    "main.js": "/static/js/main.78e220df.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/headshot_circle.png": "/static/media/headshot_circle.90e270a18866b45b18b0.png",
-    "static/media/risk_logo.png": "/static/media/risk_logo.8274be878043723e4628.png",
-    "static/media/bigredtalks_logo.png": "/static/media/bigredtalks_logo.c16bb529e0b4e39783a0.png",
-    "static/media/resume_png.png": "/static/media/resume_png.670ff3fab15eab67915d.png",
-    "static/media/synonymfinder_logo.png": "/static/media/synonymfinder_logo.aa3ce7f81c1baa9b927c.png",
-    "static/media/myjournal_logo.png": "/static/media/myjournal_logo.92b2acee3c56dd8529dd.png",
-    "static/media/linkedin_png.png": "/static/media/linkedin_png.9119696a928d35518017.png",
-    "static/media/stabler_logo.png": "/static/media/stabler_logo.c5b2db6a5bd2f5cb1877.png",
-    "static/media/email_png.png": "/static/media/email_png.35762fdc203cc35c8a3e.png",
-    "index.html": "/index.html",
-    "main.550f84b3.css.map": "/static/css/main.550f84b3.css.map",
-    "main.78e220df.js.map": "/static/js/main.78e220df.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/patchen2002.github.io/static/css/main.4a39ebb2.css",
+    "main.js": "/patchen2002.github.io/static/js/main.2663c12c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/patchen2002.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Patrick_Chen_Headshot_Circle.png": "/patchen2002.github.io/static/media/Patrick_Chen_Headshot_Circle.eb031913d54111b795f0.png",
+    "static/media/risk_logo.png": "/patchen2002.github.io/static/media/risk_logo.8274be878043723e4628.png",
+    "static/media/bigredtalks_logo.png": "/patchen2002.github.io/static/media/bigredtalks_logo.c16bb529e0b4e39783a0.png",
+    "static/media/tetris_logo.png": "/patchen2002.github.io/static/media/tetris_logo.045a2d8a640070beb5a1.png",
+    "static/media/synonymfinder_logo.png": "/patchen2002.github.io/static/media/synonymfinder_logo.aa3ce7f81c1baa9b927c.png",
+    "static/media/myjournal_logo.png": "/patchen2002.github.io/static/media/myjournal_logo.92b2acee3c56dd8529dd.png",
+    "static/media/linkedin_png.png": "/patchen2002.github.io/static/media/linkedin_png.9119696a928d35518017.png",
+    "static/media/stabler_logo.png": "/patchen2002.github.io/static/media/stabler_logo.c5b2db6a5bd2f5cb1877.png",
+    "static/media/email_png.png": "/patchen2002.github.io/static/media/email_png.35762fdc203cc35c8a3e.png",
+    "index.html": "/patchen2002.github.io/index.html",
+    "main.4a39ebb2.css.map": "/patchen2002.github.io/static/css/main.4a39ebb2.css.map",
+    "main.2663c12c.js.map": "/patchen2002.github.io/static/js/main.2663c12c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/patchen2002.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.550f84b3.css",
-    "static/js/main.78e220df.js"
+    "static/css/main.4a39ebb2.css",
+    "static/js/main.2663c12c.js"
   ]
 }
