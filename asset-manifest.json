@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a39ebb2.css",
-    "main.js": "/static/js/main.fce59a68.js",
+    "main.css": "/static/css/main.c0ad2388.css",
+    "main.js": "/static/js/main.7e808ea8.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/Patrick_Chen_Headshot_Circle.png": "/static/media/Patrick_Chen_Headshot_Circle.eb031913d54111b795f0.png",
     "static/media/risk_logo.png": "/static/media/risk_logo.8274be878043723e4628.png",
@@ -13,12 +13,12 @@
     "static/media/stabler_logo.png": "/static/media/stabler_logo.c5b2db6a5bd2f5cb1877.png",
     "static/media/email_png.png": "/static/media/email_png.35762fdc203cc35c8a3e.png",
     "index.html": "/index.html",
-    "main.4a39ebb2.css.map": "/static/css/main.4a39ebb2.css.map",
-    "main.fce59a68.js.map": "/static/js/main.fce59a68.js.map",
+    "main.c0ad2388.css.map": "/static/css/main.c0ad2388.css.map",
+    "main.7e808ea8.js.map": "/static/js/main.7e808ea8.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a39ebb2.css",
-    "static/js/main.fce59a68.js"
+    "static/css/main.c0ad2388.css",
+    "static/js/main.7e808ea8.js"
   ]
 }
