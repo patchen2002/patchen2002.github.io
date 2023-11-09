@@ -1,8 +1,8 @@
 import LinkedInLogo from "./assets/linkedin_png.png" 
 import GitHubLogo from "./assets/github_png.png" 
 import EmailLogo from "./assets/email_png.png" 
-import ResumeLogo from "./assets/resume_png.png" 
-import HeadShot from "./assets/headshot_circle.png"
+import HeadShot from "./assets/Patrick_Chen_Headshot_Circle.png"
+import TetrisLogo from "./assets/tetris_logo.png"
 import StablerLogo from "./assets/stabler_logo.png"
 import RiskLogo from "./assets/risk_logo.png"
 import MyJournalLogo from "./assets/myjournal_logo.png"
@@ -15,8 +15,9 @@ function App() {
       <div className="flex justify-center text-center items-center h-screen bg-plat">
         <div>
           <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">CS @ Cornell University</p>
-          <p className="sm:text-9xl font-bold text-coffee p-8 fade-in xs:text-7xl text-6xl">PATRICK CHEN</p>
-          <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">Software Engineer</p>
+          <p className="sm:text-9xl font-bold text-coffee p-8 pb-4 fade-in xs:text-7xl text-6xl">PATRICK CHEN</p>
+          <p className="sm:text-lg text-redw fade-in text-xs">Aspiring</p>
+          <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">10x Software Developer</p>
           <div className="flex justify-center">
             <a href="https://www.linkedin.com/in/patrick-chen-34b9b1205/" target="_blank" rel="noreferrer"><img
             className="transition ease-in-out duration-700 opacity-40 xs:h-16 xs:w-16 xs:m-8 fade-in-image hover:opacity-100 h-12 w-12 mx-4 my-6" 
@@ -51,7 +52,7 @@ function App() {
             alt="Headshot"
             ></img>
             <div>
-              <p className="text-charc text-xl my-6 med:mx-32 xs:mx-16 mx-8">My name is Patrick Chen, and welcome to my portfolio! I am currently a rising senior at Cornell University pursuing a major in 
+              <p className="text-charc text-xl my-6 med:mx-32 xs:mx-16 mx-8">My name is Patrick Chen, and welcome to my portfolio! I am currently a senior at Cornell University pursuing a major in 
               CS and a minor in Math. I am interested in many different areas of software engineering, specifically full stack development, machine learning, and algorithm development. When I am not 
               coding, I love to weightlift, cook, and eat what I cook. </p>
             </div>
@@ -79,6 +80,23 @@ function App() {
           <p className="text-2xl text-redw">Some Cool Things I Made</p>
           <p className="text-7xl font-bold text-coffee p-5">Projects</p>
             <div>
+              <div className="flex items-center justify-center h-full mx-auto sm:my-0 xs:my-4 my-8">
+                <div>
+                  <a href="https://github.com/patchen2002/tetris_ai" target="_blank" rel="noreferrer"><img
+                  className="transition ease-in-out duration-500 xs:h-44 xs:w-44 m-6 hover:opacity-60 w-28 h-28" 
+                  src={TetrisLogo}
+                  alt="Tetris Logo"
+                  ></img></a>
+                </div>
+                <div className="xs:w-1/2 mx-6 w-3/4">
+                    <p className="text-3xl font-bold text-charc">Tetris AI</p>
+                    <p className="text-charc">May 2023</p>
+                    <p className="text-charc">This Tetris AI is trained to clear as many lines as possible. 
+                    At each step, there is a function best_moves that determines what the best move is given a gamestate. We used a genetic algorithm to find 
+                    out which parameters would let this bot clear the most number of lines. The current high score is 1856 lines.
+                    </p>
+                </div>
+              </div>
               <div className="flex items-center justify-center h-full mx-auto sm:my-0 xs:my-4 my-8">
                 <div>
                   <a href="https://github.com/erichuang27/stabler_coin" target="_blank" rel="noreferrer"><img
@@ -165,9 +183,9 @@ function App() {
             </div>
         </div>
       </div>
-      <div className="flex justify-center items-center bg-plat">
+      {/* <div className="flex justify-center items-center bg-plat">
         <p className="text-charc p-4">Made by Patrick Chen</p>
-      </div>
+      </div> */}
     </div>
   );
 }
