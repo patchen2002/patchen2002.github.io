@@ -47,9 +47,8 @@ function App() {
             alt="Headshot"
             ></img>
             <div>
-              <p className="text-charc text-xl my-6 med:mx-32 xs:mx-16 mx-8">My name is Patrick Chen, and welcome to my portfolio! I am currently a senior at Cornell University pursuing a major in 
-              CS and a minor in Math. I am interested in many different areas of software engineering, specifically full stack development, machine learning, and algorithm development. When I am not 
-              coding, I love to weightlift, cook, and eat what I cook. </p>
+              <p className="text-charc text-xl my-6 med:mx-32 xs:mx-16 mx-8">My name is Patrick Chen, and welcome to my portfolio! I graduated from Cornell University with a major in 
+              CS and a minor in Math, and I am currently an SDE at Amazon. When I am not coding, I love to weightlift, cook, and eat what I cook. </p>
             </div>
         </div>
       </div>
@@ -58,6 +57,9 @@ function App() {
           <p className="text-2xl text-redw">The Important Stuff</p>
           <p className="sm:text-7xl font-bold text-coffee p-5 text-5xl">Work Experience</p>
             <div>
+              <p className="text-charc sm:text-6xl my-8 text-4xl">Amazon</p>
+              <p className="text-charc text-xl">Software Development Engineer</p>
+              <p className="text-charc text-xl">October 2024-Present</p>
               <p className="text-charc sm:text-6xl my-8 text-4xl">Capital One</p>
               <p className="text-charc text-xl">Software Engineer Intern</p>
               <p className="text-charc text-xl">June 2023-August 2023</p>
