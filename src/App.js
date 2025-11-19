@@ -14,7 +14,7 @@ function App() {
     <div>
       <div className="flex justify-center text-center items-center h-screen bg-plat ">
         <div>
-          <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">CS @ Cornell University</p>
+          <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">SDE @ Amazon</p>
           <p className="sm:text-9xl font-bold text-coffee p-8 fade-in xs:text-7xl text-6xl">PATRICK CHEN</p>
           <p className="sm:text-5xl font-bold text-redw fade-in text-3xl">10x Software Developer*</p>
           <p className="sm:text-lg text-redw fade-in text-xs">*Aspiring</p>
